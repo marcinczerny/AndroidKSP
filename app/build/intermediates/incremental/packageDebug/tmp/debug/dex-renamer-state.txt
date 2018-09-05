@@ -1,0 +1,4 @@
+#Wed Sep 05 20:15:38 CEST 2018
+base.0=C\:\\Users\\marci\\Desktop\\studia\\semestr 8\\KSP\\RafalMobilki\\2\\AndroidNetCommunicationClientActivity\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
